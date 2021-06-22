@@ -1,7 +1,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="4%">, I'm <a href="https://www.linkedin.com/in/joaquinvilchez/" target="_blank">Joaquín Vilchez</a>
 
 🌱 I'm 25 years old and I am from Argentina.  
-📚 I'm an advanced student of Information Systems Engineering and Junior Developer.  
+📚 I'm an advanced student of Information Systems Engineering and Junior Frontend Developer at eCloud Solutions in Rosario, Argentina.  
 🔨 Self-taught and passionate about programming and technology.
 
 💻 I work with the following technologies:  
